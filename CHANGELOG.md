@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.9.4] - 2022-06-28
+
+### New features
+
+- use gather_facts: true in tests_include_vars_from_parent
+- support ansible-core-2.13
+
+### Bug fixes
+
+- make min_ansible_version a string in meta/main.yml
+
 ## [1.9.3] - 2022-06-12
 
 ### Bug fixes
